@@ -6,10 +6,10 @@
 ### Hello.
 I'm **loadingalias**, the Founder and Lead Developer at ALIAS Research.
 
-- 🔭 I'm working on the DataRail Platform for [ALIAS Research](https://github.com/ALIAS-Research). 
+- 🔭 I'm working on the Rail Platform for [ALIAS Research](https://github.com/ALIAS-Research). 
   
 
-- 🥷🏼 I believe privacy is the only default option.
+- 🥷🏼 I believe privacy should be the default option.
   
 
 <br/>  
