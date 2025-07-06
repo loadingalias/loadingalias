@@ -4,13 +4,9 @@
   
 
 ### Hello.
-I'm **loadingalias**, the Founder and Lead Developer at ALIAS Research.
+I'm **loadingalias**, the Founder and Sole Developer at ALIAS Research. 
 
-- 🔭 I'm working on the Rail Platform for [ALIAS Research](https://github.com/ALIAS-Research). 
-  
-
-- 🥷🏼 I believe privacy should be the default option.
-  
+- 🔭 I'm currently working on the Rail Platform for [ALIAS Research](https://github.com/alias-research/rail).
 
 <br/>  
 
@@ -45,4 +41,8 @@ I'm **loadingalias**, the Founder and Lead Developer at ALIAS Research.
 ###### **<div align="right">😶 [Donate to Privacy International](https://action.privacyinternational.org/civicrm/contribute/transact?reset=1&id=1)</div>**  
   
 
-###### **<div align="right">🪙 [Tip Me](https://etherscan.io/address/0x9bCe7764180C22EDb93025bd39e775FF552EC2d0)</div>** 
+###### **<div align="right">🪙 [Support My Work](https://etherscan.io/address/0x9bCe7764180C22EDb93025bd39e775FF552EC2d0)</div>** 
+
+## Founder & Lead Developer
+- [@loadingalias](https://www.github.com/loadingalias)
+
