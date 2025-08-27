@@ -43,6 +43,3 @@ I'm **loadingalias**, the Founder and Sole Developer at ALIAS Research.
 
 ###### **<div align="right">🪙 [Support My Work](https://etherscan.io/address/0x9bCe7764180C22EDb93025bd39e775FF552EC2d0)</div>** 
 
-## Founder & Lead Developer
-- [@loadingalias](https://www.github.com/loadingalias)
-
