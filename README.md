@@ -3,10 +3,10 @@
 </p>
   
 
-### Hello.
-I'm **loadingalias**, the Founder and Sole Developer at ALIAS Research. 
+### Hey.
+I'm **loadingalias**, the founder of alias-research.
 
-- 🔭 I'm currently working on the [Rail](https://github.com/alias-research/rail).
+- I'm currently working on [Rail](https://github.com/alias-research/rail).
 
 <br/>  
 
