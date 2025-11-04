@@ -4,7 +4,7 @@
   
 
 ### Hey.
-I'm **loadingalias**, the founder of alias-research.
+I'm **loadingalias**, the founder of alias-research. I'm working on new memory and database primitives (time, safe memory reclamation, etc.).
 
 - I'm currently working on [Rail](https://github.com/alias-research/rail).
 
@@ -38,8 +38,4 @@ I'm **loadingalias**, the founder of alias-research.
 ###### **<div align="right">🔒 [Donate to the EFF](https://www.eff.org/pages/other-ways-give-and-donor-support#crypto)</div>**  
   
 
-###### **<div align="right">😶 [Donate to Privacy International](https://action.privacyinternational.org/civicrm/contribute/transact?reset=1&id=1)</div>**  
-  
-
-###### **<div align="right">🪙 [Support My Work](https://etherscan.io/address/0x9bCe7764180C22EDb93025bd39e775FF552EC2d0)</div>** 
-
+###### **<div align="right">😶 [Donate to Privacy International](https://action.privacyinternational.org/civicrm/contribute/transact?reset=1&id=1)</div>** 
