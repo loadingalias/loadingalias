@@ -1,41 +1,25 @@
+## Hello 👋🏼
+
+  Working on memory-safety and Rust tooling at [@alias-research](https://github.com/alias-research).
+
+  I'm actively researching memory models that scale, systems that don't compromise, and architectures that **could** change the world.
+
+  **Current work:**
+
+- [**cargo-rail**](https://github.com/alias-research/cargo-rail) — Workspace orchestration for Rust monorepos. Split/sync with history preservation, graph-aware CI, policy enforcement, release coordination.
+- Novel SMR (safe memory reclamation) scheme and HLC implementation
+- Consensus algorithms and distributed systems design challenges
+- Database internals - temporal indexing, versioned storage layers, zero-copy query execution
+
+  **Philosophy:** Most tools optimize for the wrong thing. I build for correctness first, then make it fast.
+
+<br/>
+
+**Connect:** [Twitter/X](https://twitter.com/LoadingALIAS) • [Reddit](https://www.reddit.com/user/LoadingALIAS/)
+
+**Support:** [EFF](https://www.eff.org/pages/other-ways-give-and-donor-support#crypto) • [Privacy International](https://action.privacyinternational.org/civicrm/contribute/transact?reset=1&id=1)
+<br/>
+
 <p align="center" width="100%">
-<img src="assets/header_large_git.png" alt="ALIAS-Labs" style="width: 100%; min-width: 300px; display: block; margin: auto;">
+<img src="assets/header_large_git.png" alt="loadingalias_pfp" style="width: 100%; min-width: 300px; display: block; margin: auto;">
 </p>
-  
-
-### Hey.
-I'm **loadingalias**, the founder of alias-research. I'm working on new memory and database primitives (time, safe memory reclamation, etc.).
-
-- I'm currently working on [Rail](https://github.com/alias-research/rail).
-
-<br/>  
-
-<div align="right">
-    <a href="https://twitter.com/LoadingALIAS" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.reddit.com/user/LoadingALIAS/" target="_blank">
-        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt=reddit style="margin-bottom: 5px;" />
-    </a>
-</div> 
-  
-
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=LoadingALIAS&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=LoadingALIAS&&style=flat-square" align="right" />
-</div>  
-  
-
-<br/>  
-
-###### **<div align="right">🔒 [Donate to the EFF](https://www.eff.org/pages/other-ways-give-and-donor-support#crypto)</div>**  
-  
-
-###### **<div align="right">😶 [Donate to Privacy International](https://action.privacyinternational.org/civicrm/contribute/transact?reset=1&id=1)</div>** 
