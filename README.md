@@ -1,8 +1,6 @@
 ## Hello 👋🏼
 
-  Working on memory-safety and Rust tooling at [@alias-research](https://github.com/alias-research).
-
-  I'm actively researching memory models that scale, systems that don't compromise, and architectures that **could** change the world.
+  I'm currently working on a breakthrough in memory-safety and low-level database primitives [@alias-research](https://github.com/alias-research). I'm actively researching memory models that scale, systems that don't have to compromise, and architectures that **could** change the world. I also build the Rust tooling I need to make the above work possible.
 
   **Current work:**
 
@@ -11,13 +9,21 @@
 - Consensus algorithms and distributed systems design challenges
 - Database internals - temporal indexing, versioned storage layers, zero-copy query execution
 
-  **Philosophy:** Most tools optimize for the wrong thing. I build for correctness first, then make it fast.
+<br/>
+
+**Philosophy:** Strip the idea to it's simplest atomic components/structure first; build from there. It's the only way to get anything significant done.
 
 <br/>
 
-**Connect:** [Twitter/X](https://twitter.com/LoadingALIAS) • [Reddit](https://www.reddit.com/user/LoadingALIAS/)
+**Connect:**
+[Twitter/X](https://twitter.com/LoadingALIAS)
+|
+[Reddit](https://www.reddit.com/user/LoadingALIAS/)
 
-**Support:** [EFF](https://www.eff.org/pages/other-ways-give-and-donor-support#crypto) • [Privacy International](https://action.privacyinternational.org/civicrm/contribute/transact?reset=1&id=1)
+**Support:**
+[EFF](https://www.eff.org/pages/other-ways-give-and-donor-support#crypto)
+|
+[The Tor Project](https://donate.torproject.org/cryptocurrency/)
 <br/>
 
 <p align="center" width="100%">
