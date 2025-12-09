@@ -1,51 +1,5 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*.pyo
-*.so
-
-# Environments
-.env
-.venv/
-env/
-venv/
-ENV/
-
-# Spyder project settings
-.spyderproject
-.spyproject
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# PyCharm
-.idea/
-
-# Logs
-logs/
-*.log
-
-# Utility Files
-# Exclude all utils except utils.py
-utils/*
-!utils/utils.py
-
-# Model Files
-*.h5
-*.pkl
-
 # OS generated files
 .DS_Store
 .DS_Store?
 ._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
-
-# Backup files
-*.bak
-
-# Other
-*.swp
-*.swo

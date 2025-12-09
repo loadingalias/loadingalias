@@ -1,31 +1,38 @@
-## Hello 👋🏼
+<p align="center">
+  <img src="assets/header_large_git.png" alt="loadingalias" width="100%" style="max-width: 800px;">
+</p>
 
-  I'm currently working on a breakthrough in memory-safety and low-level database primitives [@alias-research](https://github.com/alias-research). I'm actively researching memory models that scale, systems that don't have to compromise, and architectures that **could** change the world. I also build the Rust tooling I need to make the above work possible.
+## Hey, I'm LoadingALIAS
 
-  **Current work:**
+Rust, Distributed Systems and Database Engineer. Pushing the envelope.
 
-- [**cargo-rail**](https://github.com/alias-research/cargo-rail) — Workspace orchestration for Rust monorepos. Split/sync with history preservation, graph-aware CI, policy enforcement, release coordination.
-- Novel SMR (safe memory reclamation) scheme and HLC implementation
-- Consensus algorithms and distributed systems design challenges
-- Database internals - temporal indexing, versioned storage layers, zero-copy query execution
+---
 
-<br/>
+### What I'm Building
 
-**Philosophy:** Strip the idea to it's simplest atomic components/structure first; build from there. It's the only way to get anything significant done.
+I'm working on a startup at [@alias-research](https://github.com/alias-research) anchored in a breakthrough I believe I've made in safe memory reclamation.
 
-<br/>
+This has unlocked new, low-level database primitives I'm actively developing: a novel SMR scheme, a high-performance timing system, a new consensus algorithm and distributed system architecture, and unconventional database internals that I think impact all of us more than we initially realized.
 
-**Connect:**
-[Twitter/X](https://twitter.com/LoadingALIAS)
-|
-[Reddit](https://www.reddit.com/user/LoadingALIAS/)
+I build memory models that scale; systems that don't compromise; architectures that **could** change the world.
 
-**Support:**
-[EFF](https://www.eff.org/pages/other-ways-give-and-donor-support#crypto)
-|
-[The Tor Project](https://donate.torproject.org/cryptocurrency/)
-<br/>
+---
 
-<p align="center" width="100%">
-<img src="assets/header_large_git.png" alt="loadingalias_pfp" style="width: 100%; min-width: 300px; display: block; margin: auto;">
+### Current OSS Work
+
+**[cargo-rail](https://github.com/loadingalias/cargo-rail)**: workspace orchestration tooling for Rust monorepos; born out of necessity for the work above.
+
+- The leanest, full-featured build graph at any given point across the workspace
+- Graph-aware change detection for checks, tests, and benchmarks locally and in CI pipes (See: [cargo-rail-action](https://github.com/loadingalias/cargo-rail-action))
+- Split and bi-directionally sync crate/s with full history preservation to new OSS repos
+- Release, publish, and maintain without pulling in 600+ dependencies
+
+---
+
+<p align="center">
+  <a href="https://twitter.com/loadingalias">Twitter/X</a> ·
+  <a href="https://www.reddit.com/user/loadingalias/">Reddit</a> •
+  <a href="https://crates.io/users/loadingalias">Crates</a>
+  <br><br>
+  <sub>Things That Matter: <a href="https://www.eff.org/pages/other-ways-give-and-donor-support#crypto">EFF</a> · <a href="https://donate.torproject.org/cryptocurrency/">The Tor Project</a></sub>
 </p>
