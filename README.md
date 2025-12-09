@@ -30,9 +30,10 @@ I build memory models that scale; systems that don't compromise; architectures t
 ---
 
 <p align="center">
-  <a href="https://twitter.com/loadingalias">Twitter/X</a> ·
-  <a href="https://www.reddit.com/user/loadingalias/">Reddit</a> •
+  <a href="https://twitter.com/loadingalias">Twitter</a> ·
+  <a href="https://www.reddit.com/user/loadingalias/">Reddit</a> ·
   <a href="https://crates.io/users/loadingalias">Crates</a>
   <br><br>
-  <sub>Things That Matter: <a href="https://www.eff.org/pages/other-ways-give-and-donor-support#crypto">EFF</a> · <a href="https://donate.torproject.org/cryptocurrency/">The Tor Project</a></sub>
+  <a href="https://www.eff.org/pages/other-ways-give-and-donor-support#crypto"><img src="https://img.shields.io/badge/EFF-bb1a34?style=flat-square" alt="EFF"></a>
+  <a href="https://donate.torproject.org/cryptocurrency/"><img src="https://img.shields.io/badge/Tor_Project-7D4698?style=flat-square&logo=torproject&logoColor=white" alt="Tor Project"></a>
 </p>
