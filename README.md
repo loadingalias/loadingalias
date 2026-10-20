@@ -28,7 +28,7 @@ Founder and lead engineer at [@alias-research](https://github.com/alias-research
 
 [My Engineering Diary](https://loadingalias.dev)
 
-[Email](mailto:thealiaslab@gmail.com)
+[Email](mailto:loadingalias@proton.me)
 
 [Twitter/X](https://x.com/loadingalias)
 
